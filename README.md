@@ -1,14 +1,14 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h1 align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></h1>
 <h1 align="center">Hi 👋 , I'm Ali Yücel Büyük</h1>
 <h3 align="center">Frontend Developer From Turkey</h3>
 
-- 🌱 **HTML&CSS&CSS3, Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
+- 🌱 **HTML-CSS-CSS3, SASS,S Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
 
 - 📫 How to reach me **leonn3407@gmail.com**
 
 - 🌱  I'm learning React Js and React Native
 
-- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and scooter 🚴‍♀️
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
