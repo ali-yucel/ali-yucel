@@ -2,14 +2,11 @@
 <h1 align="center">Hi 👋 , I'm Ali Yücel Büyük</h1>
 <h3 align="center">Frontend Developer From Turkey</h3>
 
-
-- 🔭 I'm currently working on  React
-
-- 🌱 **Redux, React, NextJS, JavaScript, ReactRedux **
-
-- 💬 Ask me about **React, Redux **
+- 🌱 **HTML&CSS&CSS3, Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
 
 - 📫 How to reach me **leonn3407@gmail.com**
+
+- 🌱  I'm learning React Js and React Native
 
 - ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
