@@ -8,7 +8,7 @@
 
 - 🌱  I'm learning React Js and React Native
 
-- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and scooter 🚴‍♀️
+- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and scooter 🛴
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
