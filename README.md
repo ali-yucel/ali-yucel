@@ -11,12 +11,18 @@
 
 - 📫 How to reach me **leonn3407@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+
+<h3 align="left">📩 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-y%C3%BCcel-b-a328b959/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
 <a href="https://stackoverflow.com/users/19173838/ali-yucel" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
 <a href="https://www.instagram.com/aly_ycel" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram.png"></a>
 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
