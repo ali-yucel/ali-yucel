@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 , I'm Ali Yücel Büyük</h1>
 <h3 align="center">Frontend Developer From Turkey</h3>
 
-- 🌱 **HTML-CSS-CSS3, SASS,S Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
+- 🌱 **HTML-CSS-CSS3, SASS, Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
 
 - 📫 How to reach me **leonn3407@gmail.com**
 
