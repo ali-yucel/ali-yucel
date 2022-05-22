@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋 , I'm Ali Yücel Büyük</h1>
+<h3 align="center">Frontend Developer From Turkey</h3>
 
 <!--
 **ali-yucel/ali-yucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
