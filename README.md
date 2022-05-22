@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leonn3407@gmail.com**
 
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
@@ -19,10 +19,6 @@
 <a href="https://stackoverflow.com/users/19173838/ali-yucel" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
 <a href="https://www.instagram.com/aly_ycel" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram.png"></a>
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +32,9 @@
 <a href="#!" rel="nofollow"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg" alt="gcp" width="40" height="40"  style="max-width: 100%;"> </a>
 <a href="#!" rel="nofollow"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="gcp" width="40" height="40"  style="max-width: 100%;"> </a>
 <a href="#!" rel="nofollow"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="gcp" width="40" height="40"  style="max-width: 100%;"> </a>
+<a href="#!" rel="nofollow"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg" alt="gcp" width="40" height="40"  style="max-width: 100%;"> </a>
+
+<a href="#!" rel="nofollow"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg" alt="gcp" width="40" height="40"  style="max-width: 100%;"> </a>
 </p>
 
 <!--
