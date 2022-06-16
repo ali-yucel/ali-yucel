@@ -1,4 +1,4 @@
-<h1 align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></h1><br/>
+<h1 align="center"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" /></h1>
 <h1 align="center">Hi 👋 , I'm Ali Yücel Büyük</h1>
 <h3 align="center">Frontend Developer From Turkey</h3>
 
