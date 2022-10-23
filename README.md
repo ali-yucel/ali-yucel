@@ -4,7 +4,7 @@
 
 - 🌱 **HTML-CSS-CSS3, SASS, Bootstrap, Javascript, Wordpress, OpenCart , Shopify **
 
-- 📫 How to reach me **leonn3407@gmail.com**
+- 📫 How to reach me **aliyucel.buyuk@gmail.com**
 
 - 🌱  I'm learning React Js and React Native
 
