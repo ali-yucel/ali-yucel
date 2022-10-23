@@ -12,7 +12,7 @@
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-y%C3%BCcel-b-a328b959/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
+<a href="https://www.linkedin.com//in/ali-yucel/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
 <a href="https://stackoverflow.com/users/19173838/ali-yucel" target="blank"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>
 <a href="https://www.instagram.com/aly_ycel" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram.png"></a>
 
